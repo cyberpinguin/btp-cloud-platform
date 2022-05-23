@@ -10,7 +10,7 @@ The services and solutions of SAP BTP are available on multiple cloud infrastruc
 
 The central point of entry to the cloud platform is the **SAP BTP cockpit**, where you can access your accounts and applications and manage all activities associated with them.
 
-
+this is typo
 
   
   
